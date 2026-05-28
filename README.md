@@ -33,7 +33,7 @@ Dashboard Features
 
 Dashboard Preview
 
-"Dashboard" (dashboard2.png)
+![Dashboard](dashboard2.png)
 
 Conclusion
 
